@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "emotion": "^9.2.10",
+    "lodash": "^4.17.11",
     "parcel": "^1.10.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
